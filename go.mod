@@ -6,7 +6,7 @@ require (
 	github.com/Jguer/votar v1.0.0
 	github.com/Morganamilo/go-pacmanconf v0.0.0-20210502114700-cff030e927a5
 	github.com/Morganamilo/go-srcinfo v1.0.0
-	github.com/bradleyjkemp/cupaloy v2.3.0+incompatible
+	github.com/bradleyjkemp/cupaloy v2.8.0+incompatible
 	github.com/leonelquinteros/gotext v1.5.2
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/sys v0.10.0
