@@ -9,7 +9,7 @@ require (
 	github.com/bradleyjkemp/cupaloy v2.8.0+incompatible
 	github.com/leonelquinteros/gotext v1.5.2
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/sys v0.10.0
+	golang.org/x/sys v0.11.0
 	golang.org/x/term v0.10.0
 	golang.org/x/text v0.11.0 // indirect
 	gopkg.in/h2non/gock.v1 v1.1.2
