@@ -128,7 +128,7 @@ pacman -S --needed git base-devel yay
 
 - **Yay is not asking me to edit PKGBUILDS, and I don't like the diff menu! What can I do?**
 
-  `yay --editmenu --diffmenu=false --save`
+  `yay --editmenu=false --diffmenu=false --save`
 
 - **How can I tell Yay to act only on AUR packages, or only on repo packages?**
 
