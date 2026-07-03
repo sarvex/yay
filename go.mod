@@ -12,9 +12,9 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/leonelquinteros/gotext v1.7.1
 	github.com/stretchr/testify v1.9.0
-	golang.org/x/net v0.37.0
-	golang.org/x/sys v0.31.0
-	golang.org/x/term v0.30.0
+	golang.org/x/net v0.55.0
+	golang.org/x/sys v0.45.0
+	golang.org/x/term v0.43.0
 	gopkg.in/h2non/gock.v1 v1.1.2
 )
 
@@ -30,6 +30,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-go 1.23.5
-
-toolchain go1.24.0
+go 1.25.0
